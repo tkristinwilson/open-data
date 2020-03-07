@@ -5,7 +5,7 @@ Global open data repositories - a working list.
 - Biodiversity Heritage Library https://www.biodiversitylibrary.org
 - Copernicus https://scihub.copernicus.eu
 - Dryad https://datadryad.org
-- Globa Biodiversity Information Facility (GBIF) https://www.gbif.org
+- Global Biodiversity Information Facility (GBIF) https://www.gbif.org
 - NASA https://open.nasa.gov
 - National Oceanic and Atmospheric Administration (NOAA) https://data.noaa.gov
 - Pangaea https://www.pangaea.de
