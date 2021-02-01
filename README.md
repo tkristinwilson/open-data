@@ -8,7 +8,7 @@ Global open data repositories - a working list.
 - Global Biodiversity Information Facility (GBIF) https://www.gbif.org
 - Google Earth Engine (GEE) Data Catalog https://developers.google.com/earth-engine/datasets
 - NASA https://open.nasa.gov
-- NASA Geovanni https://giovanni.gsfc.nasa.gov/giovanni
+- NASA Giovanni https://giovanni.gsfc.nasa.gov/giovanni
 - NASA Worldview https://worldview.earthdata.nasa.gov
 - National Oceanic and Atmospheric Administration (NOAA) https://data.noaa.gov
 - Natural Earth https://www.naturalearthdata.com
