@@ -2,6 +2,7 @@
 
 Global open data repositories - a working list.
 
+## General
 - Biodiversity Heritage Library https://www.biodiversitylibrary.org
 - Copernicus https://scihub.copernicus.eu
 - Dryad https://datadryad.org
@@ -23,3 +24,15 @@ Global open data repositories - a working list.
 ## See also
 - Global Open Data Index https://index.okfn.org
 - Open Knowledge Foundation https://okfn.org
+
+## Antarctica
+- Scientific Committee on Antarctic Research (SCAR) https://www.scar.org/resources/data/
+- SCAR Antarctic Metadata Directory https://www.scar.org/resources/amd/ (https://search.earthdata.nasa.gov/portal/amd/search)
+- U.S. Antarctic Program Data Center (USAP-DC) https://www.usap-dc.org/
+- Environmental Data Initiative https://portal.edirepository.org/nis/home.jsp
+- Australian Antarctic Data Centre https://data.aad.gov.au
+- International Association of Antarctica Tour Operators (IAATO) https://iaato.org/information-resources/data-statistics/
+
+## Rocks
+- U.S. Polar Rock Repository https://prr.osu.edu
+- N.Z. Petlab https://pet.gns.cri.nz/#/
